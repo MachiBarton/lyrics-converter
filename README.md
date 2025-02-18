@@ -1,6 +1,5 @@
 # lyrics-converter-
-lrc &lt;->krc
-我来帮您创建一个 README.md 文件，包含项目的主要信息和使用说明。
+
 
 ```markdown:README.md
 # 歌词格式转换工具
